@@ -3,4 +3,4 @@ Autonomous Aerial Vehicle System (AAVs) for a quadcopter.
 Designing self maneuvering system for drone.
 
 <br>
-![image](image.jpg)
+![drone](image.jpg)
